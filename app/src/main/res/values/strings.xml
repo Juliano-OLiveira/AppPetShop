@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pet-Shopp</string>
+    <string name="title_activity_petshop">petshop</string>
+    <string name="title_activity_novo_carro">NovoCarroActivity</string>
+</resources>
